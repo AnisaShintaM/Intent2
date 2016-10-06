@@ -11,7 +11,19 @@
     tools:context="id.sch.smktelkom_mlg.learn.intent2.MainActivity">
 
     <TextView
-        android:text="Hello World!"
+        android:text="Biodata belum ada, isi terlebih dahulu"
         android:layout_width="wrap_content"
-        android:layout_height="wrap_content" />
+        android:layout_height="wrap_content"
+        android:id="@+id/textViewBiodata" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Isi Biodata"
+        android:id="@+id/buttonInput"
+        android:layout_below="@+id/textViewBiodata"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true" />
 </RelativeLayout>
