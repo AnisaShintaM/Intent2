@@ -4,9 +4,10 @@
  *Start Activity For Result*
  
  **SCREEN SHOOT** <br>
- ![Screenshot 1] (https://s9.postimg.org/7q12wshgv/Intent2.jpg)
- ![Screenshot 2] (https://s17.postimg.org/py7bz2nf3/Intent21.jpg)
- ![Screenshot 2] (https://s22.postimg.org/fg26tzubl/Intent22.jpg)
+ ![Screenshot 1] (https://s14.postimg.org/rrhmwir41/int2.png)
+ ![Screenshot 2] (https://s13.postimg.org/d14i1ap0n/int2_1.png)
+ <center>
+ ![Screenshot 2] (https://s22.postimg.org/qu4gdx88h/int2_2.png) </center>
  
  **IDENTIAS** <br>
  *Nama*          : Annisa Shinta Mahgfiroh <br>
